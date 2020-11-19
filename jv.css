@@ -1,0 +1,93 @@
+#principal{
+    background-image: url('../projet-jv/img/mustang.jpg');
+    clear: both; 
+    background-size:100%; 
+    min-height: 800px; 
+    padding:20px 0 0 50px;
+    color: yellow;
+    text-shadow: 1px 1px 1px #111111;
+}
+
+#dvjogo {
+    width: 480px;
+    height: 480px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    align-content: flex-start;
+}
+/* inicio botao */
+button {
+    background-image: url(../projet-jv/img/33.png);
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 20px;
+    width:99px;
+    height:49px;
+    background-position: center;
+    
+    
+}
+/* fim botao */
+.posJogo {
+    width: 150px;
+    height: 150px;
+    padding: 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+}
+
+#p1 {
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+#p2 {
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+}
+
+#p3 {
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+#p4 {
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+}
+
+#p5 {
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+}
+
+#p6 {
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+}
+
+#p7 {
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+
+}
+
+#p8 {
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+}
+
+#p9 {
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+}
