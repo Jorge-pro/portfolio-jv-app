@@ -1,2 +1,2 @@
-#Projeto Jogo da Velha
-Projeto simple elaborado usando como base de um jogo da velha com aplicação de html, css e javascript.
+#Tic-Tac-Toe Project
+Simple project elaborated using the base of a tic-tac-toe game with the application of HTML, CSS and JavaScript.
